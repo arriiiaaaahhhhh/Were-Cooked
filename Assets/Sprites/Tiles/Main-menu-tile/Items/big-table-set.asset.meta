@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+<<<<<<<< Updated upstream:Assets/Sprites/Tiles/Main-menu-tile/Items/big-table-set.asset.meta
+guid: e3690e17db0dc9242a868a4c7e212e2e
+========
+<<<<<<< HEAD
+guid: 12a30db9300114d46b296565e76d475e
+>>>>>>>> Stashed changes:Assets/Sprites/Tiles/NewKitchen/Floor layout_0.asset.meta
+=======
+guid: 1889891e5b51bc54d8b5d675b1d79d0a
+>>>>>>>> Stashed changes:Assets/Sprites/Tiles/NewKitchen/Floor layout_1.asset.meta
+>>>>>>> origin/main
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2371 @@
+fileFormatVersion: 2
+guid: 1402b82aa6983d541850f18d43344b1a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 70
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: testing-counter_0
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 371
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e08d68a14f99bb4a92100accd1fd0a1
+      internalID: -511379730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_1
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 371
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90795cd12c4a2d418350ab8a641f02f
+      internalID: 1977593061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_2
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 371
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce062b51b0037e647a3d9cef6e1c5883
+      internalID: -1962518438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_3
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 371
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bc89944a2bb7a498a4de9af37be7e3
+      internalID: -1182133935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_4
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 355
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6c11716684d304ea1ddf309b85e950
+      internalID: 1687117677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_5
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 355
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903ee1dd002c6624c91e019010448f4c
+      internalID: -215005944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_6
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 355
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5f2f035f3405e43b3695bf842677e8
+      internalID: -1488263336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_7
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 355
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350901abbdd33e041aa4565c7397e9db
+      internalID: -624037490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_8
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 339
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55687daec4a943438f5d5cc85a83d80
+      internalID: -1724716291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_9
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 339
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a0fc4bd69742d4fb1278437a073d6e
+      internalID: 808547236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_10
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 339
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a154f8df66c5b624ea7840f764470da7
+      internalID: -1582896700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_11
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 339
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828685e798f1f6c448dd158e07cb8ffc
+      internalID: 195352581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_12
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec437871514182641a94366d00c10723
+      internalID: -1458577426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_13
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca95275a602d70e438bc068b2cf35378
+      internalID: -432054145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_14
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c267ab83a6dd9c64bb9b1b7107f5211c
+      internalID: -591704239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e85f58e9ffc7c4fb7ece33f7be6687
+      internalID: -946054455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_16
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08966e6040c3704292caffe4b347938
+      internalID: 177807593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_17
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1945528cd4fc51a4b91e2ba06873c831
+      internalID: 994355785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_18
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10922785a9928414da961ae0030e98ab
+      internalID: -215196546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_19
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1a9250c3b131647a2e53aa3549978e
+      internalID: -387203963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_20
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 99
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79da1bd0e43356e4cb4f73f5bd6c3625
+      internalID: 1061597730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_21
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 99
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbce1e3a7b8ec745bdad986f581a1fc
+      internalID: -1151519028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_22
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f73feccbebeb7459b0a9cde89d9753
+      internalID: 1183766717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_23
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d0540260f57894f82cde4359b6b1d5
+      internalID: 957751361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_24
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2818aab6302264e4a9993bd1a8c922f1
+      internalID: 1296637273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_25
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7e06a72d42cfa42ba0b591427524d0
+      internalID: 451139464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_26
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212dfa08fead50646897852e45377d93
+      internalID: -1575909809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_27
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9c866d1605d1541bce610f8af76d34
+      internalID: -1405909430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_28
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc67fbba5cf165f478b4ccdc991e4a51
+      internalID: 937651692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_29
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a694523c7bf514491e84d863860647
+      internalID: -68137134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_30
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a1c7d4b71d4bf4ca232d0e59992d36
+      internalID: 1776022312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_31
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a65c8503686c04db06c8fd6207dc5a
+      internalID: 1547855206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_32
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5803c55972a2843bad6c8b5f52342e
+      internalID: 1681883675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_33
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413b6080104fedc4081a6067a69a0758
+      internalID: -792752729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_34
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4da628929e76b544acec1caf50397cd
+      internalID: 907344559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_35
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a78a494d433974fa894c41826d1488
+      internalID: -543810577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_36
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3892a56d7dc50bb45bc72f5149d6171a
+      internalID: -2057766955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_37
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976a709765de5a54f954fa00d6f7335a
+      internalID: -2049082427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_38
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7054d26007b7834f8404259d2621075
+      internalID: 407005103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_39
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95042202693ed14f9864f307b382be8
+      internalID: 459741197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_40
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f35d5c29ed07304390f14f0e890c485
+      internalID: 1460082849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_41
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64e7354f60c79e458cec2e8efec4bc8
+      internalID: -768201665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_42
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f6074f17cc6b44e88b354691f1a661
+      internalID: -801748368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_43
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448a62523cbfd8b4c8067f81b171bc9c
+      internalID: 1244123136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_44
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fe0d810eda9654ba15b40c5bb1cf73
+      internalID: 1841703579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_45
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee69500a09e67f49b7318ffb03a9764
+      internalID: 975472141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_46
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bf2059d5fc5b8449de4241c1d038f8
+      internalID: -1328954561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_47
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb27f412a66995499aa2d9b72cc50ae
+      internalID: 1196323772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_48
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51ba614465f00b46acbcaf2d9bc9139
+      internalID: -1307494485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_49
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2050ddee1885e489b1798977967385
+      internalID: 2023110134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_50
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ac90c308aa6cf48afb1adecf0997cf
+      internalID: 1235421666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_51
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c051bbea7adebf046a19a51aaf5efccf
+      internalID: -1680214657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_52
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b6f74d41effa242bfa7688d73b4338
+      internalID: 1230019788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_53
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3271dac5efcbc41b86c693997e6135
+      internalID: -2063517297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_54
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69d183e8f0bb104e9e6703966334c44
+      internalID: 882679226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_55
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7039935152385e44cad79520e953318e
+      internalID: -1211429540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_56
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce37f3847408bf4e8a1400b29c3b091
+      internalID: -898358498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_57
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1397d88314de08419a838856c5764f1
+      internalID: -1541879236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_58
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5117288428a206b46b6bbbfb10ba8701
+      internalID: -539682228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_59
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffaff3da80f6db4db673fce472fc7ec
+      internalID: -1817787342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_60
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f186a5193e2c8746bf97674d1306346
+      internalID: -1602352646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_61
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d982326812d8984dae2a78533d6722f
+      internalID: 1555322359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_62
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92764639eb043144eb9dc859a4426cb6
+      internalID: -54327529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_63
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5dff3285a2f6347995e10dce1e7347
+      internalID: 1575928140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_64
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b77a56091689d4dad9d43c3b4ad08f
+      internalID: -1698589230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_65
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40bccbb13614ea45bf4cfe4f3edaa2a
+      internalID: 1860894472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_66
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c5fc2028def3d498df88c30d135e05
+      internalID: -313679925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_67
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6bd825f42475a946818abfeabbe4c85
+      internalID: -656416455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_68
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2461547e969ff4a94bc8d91af15b5f
+      internalID: 160911625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_69
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca27a6c2410b9334da2bfc8863fb571a
+      internalID: 640771159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_70
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db905cec788729244846977cb2c998de
+      internalID: -1355889487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_71
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c66424cd5c1df049acddd381e4d4909
+      internalID: 1265882906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_72
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778e376622727ce46bf0804cda52fdfc
+      internalID: -20605078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_73
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f790164e0643c4cbd0e283ac1e2ce5
+      internalID: 334863237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_74
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e740b4c22e93d41bd2eb7f213732ec
+      internalID: -865179242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_75
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fef836610a56eb44bc88ae5c63b5119
+      internalID: 849345655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_76
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85f54f7996948743ae26ac51595fe94
+      internalID: -213824084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_77
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9defb2af617a7849b195492da94be1b
+      internalID: -1630354735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_78
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2130c420d2dad409fb5621c35f0cc0
+      internalID: 1645904003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_79
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8efe3e9d3eb2440b2332a29437b1a9
+      internalID: 903486592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_80
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1229fe76c777ba40a411f0c2e7bbefb
+      internalID: 1139741688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_81
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18ba1b1782480d4a8b3af34927c28cd
+      internalID: 1145306211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_82
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4ffa2ebde40d1448fa1797b6a800e6
+      internalID: -1165885001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_83
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714fbc680c4ff5241b1c7caa1a010fe9
+      internalID: -1694877081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_84
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9e0fb97a9757949a652b8b2f20987a
+      internalID: 1204516017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_85
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291979d21efd010439edb13c73a4d580
+      internalID: -676836773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_86
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fbb6e0422cdaa45b97cab092f908aa
+      internalID: -1054215302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_87
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1eb780659fa524f84a4cb12b51859c
+      internalID: -731407700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_88
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28aebd68d3b7ad44f99a765390e7ccc2
+      internalID: -900963299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_89
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e994725a2dd4934aaf775abcd430642
+      internalID: -1843221074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_90
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cec4b0dd1989c4886d234cde6f668c
+      internalID: 1902359032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_91
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a833fb66c4c76414499ea6bf13cb2288
+      internalID: 1098227659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_92
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ce4eede3e57064bb595dd6baa16944
+      internalID: 1070614225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_93
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf41d78a2f640f43a44095bdff62761
+      internalID: 99431943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_94
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb1f571d0720694a941fc81415840a9
+      internalID: -1552545933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_95
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d37edea80180c43ac1dcbc6803ce5f
+      internalID: -175871797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_96
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309c6c5381f9a3b4c87f22c12135fd89
+      internalID: 1750615585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_97
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf80be87f978bd4479d046d0c595a85e
+      internalID: 531689724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_98
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b3864954097ff41ad296ced215636b
+      internalID: 1086684428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_99
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a3b063bfc22f84f960535fab7f8ca4
+      internalID: -177578652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_100
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0f71eb955af374ca62d0d9259f0175
+      internalID: -508314018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testing-counter_101
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b131975b8573546ab581d78d423c52
+      internalID: -548959963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      testing-counter_0: -511379730
+      testing-counter_1: 1977593061
+      testing-counter_10: -1582896700
+      testing-counter_100: -508314018
+      testing-counter_101: -548959963
+      testing-counter_11: 195352581
+      testing-counter_12: -1458577426
+      testing-counter_13: -432054145
+      testing-counter_14: -591704239
+      testing-counter_15: -946054455
+      testing-counter_16: 177807593
+      testing-counter_17: 994355785
+      testing-counter_18: -215196546
+      testing-counter_19: -387203963
+      testing-counter_2: -1962518438
+      testing-counter_20: 1061597730
+      testing-counter_21: -1151519028
+      testing-counter_22: 1183766717
+      testing-counter_23: 957751361
+      testing-counter_24: 1296637273
+      testing-counter_25: 451139464
+      testing-counter_26: -1575909809
+      testing-counter_27: -1405909430
+      testing-counter_28: 937651692
+      testing-counter_29: -68137134
+      testing-counter_3: -1182133935
+      testing-counter_30: 1776022312
+      testing-counter_31: 1547855206
+      testing-counter_32: 1681883675
+      testing-counter_33: -792752729
+      testing-counter_34: 907344559
+      testing-counter_35: -543810577
+      testing-counter_36: -2057766955
+      testing-counter_37: -2049082427
+      testing-counter_38: 407005103
+      testing-counter_39: 459741197
+      testing-counter_4: 1687117677
+      testing-counter_40: 1460082849
+      testing-counter_41: -768201665
+      testing-counter_42: -801748368
+      testing-counter_43: 1244123136
+      testing-counter_44: 1841703579
+      testing-counter_45: 975472141
+      testing-counter_46: -1328954561
+      testing-counter_47: 1196323772
+      testing-counter_48: -1307494485
+      testing-counter_49: 2023110134
+      testing-counter_5: -215005944
+      testing-counter_50: 1235421666
+      testing-counter_51: -1680214657
+      testing-counter_52: 1230019788
+      testing-counter_53: -2063517297
+      testing-counter_54: 882679226
+      testing-counter_55: -1211429540
+      testing-counter_56: -898358498
+      testing-counter_57: -1541879236
+      testing-counter_58: -539682228
+      testing-counter_59: -1817787342
+      testing-counter_6: -1488263336
+      testing-counter_60: -1602352646
+      testing-counter_61: 1555322359
+      testing-counter_62: -54327529
+      testing-counter_63: 1575928140
+      testing-counter_64: -1698589230
+      testing-counter_65: 1860894472
+      testing-counter_66: -313679925
+      testing-counter_67: -656416455
+      testing-counter_68: 160911625
+      testing-counter_69: 640771159
+      testing-counter_7: -624037490
+      testing-counter_70: -1355889487
+      testing-counter_71: 1265882906
+      testing-counter_72: -20605078
+      testing-counter_73: 334863237
+      testing-counter_74: -865179242
+      testing-counter_75: 849345655
+      testing-counter_76: -213824084
+      testing-counter_77: -1630354735
+      testing-counter_78: 1645904003
+      testing-counter_79: 903486592
+      testing-counter_8: -1724716291
+      testing-counter_80: 1139741688
+      testing-counter_81: 1145306211
+      testing-counter_82: -1165885001
+      testing-counter_83: -1694877081
+      testing-counter_84: 1204516017
+      testing-counter_85: -676836773
+      testing-counter_86: -1054215302
+      testing-counter_87: -731407700
+      testing-counter_88: -900963299
+      testing-counter_89: -1843221074
+      testing-counter_9: 808547236
+      testing-counter_90: 1902359032
+      testing-counter_91: 1098227659
+      testing-counter_92: 1070614225
+      testing-counter_93: 99431943
+      testing-counter_94: -1552545933
+      testing-counter_95: -175871797
+      testing-counter_96: 1750615585
+      testing-counter_97: 531689724
+      testing-counter_98: 1086684428
+      testing-counter_99: -177578652
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

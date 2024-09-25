@@ -1,0 +1,2327 @@
+fileFormatVersion: 2
+guid: 648846e46f73462409f357aeaa282e74
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 70
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kitchen-hood_0
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 483
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92679b490ead1ac4c94e76610becc89f
+      internalID: 374652217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 371
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194853ecb4aa30847b99867f42c7e7d1
+      internalID: -1528162639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 371
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a5926582189cd4ea8441b565d1d9ad
+      internalID: 1918185559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_3
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 371
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb9d37913a52a043931d407e9e97043
+      internalID: 597272910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 355
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2b64f71c02f7444a36b2a50d5f905e
+      internalID: 1837529386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_5
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 355
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1b50fce1683aa498c2a6dcfd8b9d1e
+      internalID: -215520944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 355
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4110b32b68a3e46bb3675acbea0407
+      internalID: 665213650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_7
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 355
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db63a1e5f5d7fb445a83dc9a324e4b52
+      internalID: -1119166324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 339
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb3a69a8d4595a4599f1b137306e724
+      internalID: -980726132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 339
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae4d5f02a6678f459e03125bd78c79d
+      internalID: -189805160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 339
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b260728cfb0da1144b3a353e31543a7e
+      internalID: -338387193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 339
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c953fa97691c54f85aeba9181345f5
+      internalID: 670494499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_12
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e69b31e62a9f2d458cdc726a9beb65b
+      internalID: 1331202066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462fd330141d4174185c8dc1b1cd390f
+      internalID: -754701813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_14
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6be77bffb424a0429980f64958d80a8
+      internalID: -1121692609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e37c502d42bdc4b9be157b074b73cb
+      internalID: -1364919925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6da4b27a3c5954ba941752d385db97
+      internalID: 998361608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_17
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177b22e97026b6144908168b53b76485
+      internalID: 1848344603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 291
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a45b134293929147b82f983b79beb16
+      internalID: -535449259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_19
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 291
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9664e396cb170d34baa6af70a95909b4
+      internalID: -858385924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_20
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249fe0e7f3055a340a01f792e1e0c2f3
+      internalID: 341884563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_21
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2314a708945cfaf4d9bc69ca029abeff
+      internalID: -923767662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_22
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f00ad38cc140f641ae123ce4a84f1c9
+      internalID: -1968772217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_23
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4f83b02dccd0b42aa2e9c585b1bc39
+      internalID: 1494284081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_24
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661cd2f8fbefc0f4b9059aef91da2f4a
+      internalID: -302959465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_25
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ce615a2b6aba743800d9db4f65cf76
+      internalID: 1529073487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_26
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9ffe58ee8a1f44293c7140ec8bb4c3
+      internalID: -1093999472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_27
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d243f319e7e07104fa4882e89ebc6863
+      internalID: -726954243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_28
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70e98665d6b5354c9ac6a1e6f0ed421
+      internalID: -1300847044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_29
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b0ed892efbace4c87a8e580aace618
+      internalID: 2021189498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_30
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944cd144bb59a0a44a6263e0f9dc7798
+      internalID: 439601653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_31
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8e45395311ac44b805f342ad9918e4
+      internalID: -2133893816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_32
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480f4db9c2ed2f348a601ba65b893ddb
+      internalID: -858175643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_33
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223aa2279ecf0b74e8faa08b7425f333
+      internalID: 852946466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_34
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132de0cc96964ea46b8f9debc44a8da0
+      internalID: 716392134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_35
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a19c9c6226af743adcb1798bc0c02c
+      internalID: -775458062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_36
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821dd729a18d15a418df674758610776
+      internalID: 557174378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_37
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa67ea60ebffe24cbdc021211f1d760
+      internalID: -1609971306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_38
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ecda3af82b807459d26d5f00c03f0c
+      internalID: -167131786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_39
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072a02e4c41e26d49a0434ec6c0f874f
+      internalID: -988098457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_40
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9068c54e742a3e4419cddcd5474f297d
+      internalID: 101737771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_41
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a199b7fbd18a77a468ff42e8f707068b
+      internalID: -1945482306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_42
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac778331f405964294d6727acbcd5a2
+      internalID: 650635500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_43
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2d6a024be4e0c4b8ee76f42d2ca49b
+      internalID: -1965035441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_44
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9c039342a79154d9e62bc3aaf82e0d
+      internalID: 1377488624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_45
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd1e3b79f8d89b488b83b230b250940
+      internalID: 569356678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_46
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a3576461a60644ca704d6e50cfc96a
+      internalID: -873668129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_47
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104fed5b0ad65c4478d8b7a03acc4cdf
+      internalID: -659237803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_48
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e255d9a8b4cd6414b9389c1366c7edb0
+      internalID: 1752507036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_49
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316161fddcbc66c42ae08c66b865dcd7
+      internalID: 1494179355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_50
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ce43564c706864daccdd37cc32411e
+      internalID: 1686177779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_51
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a83ff36ec23e24d81403653035a9a9
+      internalID: -395414060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_52
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23bd602958ce954ab44f3724b4b3049
+      internalID: -567669871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_53
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7a285c38e118f49945203e97a5cecb
+      internalID: -794822349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_54
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b320aad22956fa47b012e9564db1699
+      internalID: -43700986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_55
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bb22501729df04d9e18b71ce362fff
+      internalID: 1240532122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_56
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fde04c12a238a4cad7056884fd204b
+      internalID: 956533220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_57
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0107ef1a21fab804c9d930e7fd07db41
+      internalID: -555618735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_58
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b11dc8e63e42ad4a808ceb8ce9d93b9
+      internalID: 1742063138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_59
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0fbd56f1059064fa66e6554cd9d9c0
+      internalID: -1248348050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_60
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15a308ae735bf84a85ed3643d3eb5d8
+      internalID: -527838483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_61
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfee99c3d246fc4b90afd98611ecc07
+      internalID: 1657960054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_62
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075bd6d89170a6a40a93a623f5b2ad6e
+      internalID: -2088138258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_63
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec2baa2ccf390e4ca73f6bd7e3dfbe6
+      internalID: 830951765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_64
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd12f39589a1a9e40af9eef0a5a63f01
+      internalID: -804335643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_65
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f970c905f60227d4fb98fc5dcdd37153
+      internalID: 718522763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_66
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d7ea29ffe5f35488f10f412e59c793
+      internalID: -1887960797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_67
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01667635609ae3e418d8d4c3bfd4b075
+      internalID: 2066372520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_68
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8c4f8545ce67345b15d857a5a08652
+      internalID: -753702899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_69
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfd7d6387440634a8a18c977517c347
+      internalID: 1730152001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_70
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817133f874608274b8ee46065147e2d8
+      internalID: 948888077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_71
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401f0ba3d8cdeba4a8ebdf46ad02a5a3
+      internalID: 905793529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_72
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab66d9310bec1f4896d96218b4eb60f
+      internalID: 1520430374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_73
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba93e848a17a4d04685b22a4052a7ec8
+      internalID: 1986103195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_74
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024cc073ece9a72498dddd2238e117c5
+      internalID: 1522272912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_75
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a507696a8dc4a41821499e72110b83
+      internalID: 787023734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_76
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebaeabd9c3f2da419ffbe467112d94a
+      internalID: 1712855058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_77
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf6ce9ca1753504494b271f23ddd3ac
+      internalID: 1016090283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_78
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8951c9098bb0944ae9e55970719d5e
+      internalID: -516308560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_79
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b0d5134e728644ba33328f04382e12
+      internalID: -2147105719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_80
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa928d4dbe420904aa94f753bd3257b1
+      internalID: -592685752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_81
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f75c14d8ed9d04e9849900e72f11cd
+      internalID: 915318291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_82
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2409f1a1bc5576f4a9925b8ad8c40269
+      internalID: 1075030166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_83
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ec2d73a9460994589d1397b198109f
+      internalID: 1498281654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_84
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66d246d5ccbd53458ebd772b21265bd
+      internalID: 254688929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_85
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c48f05d49fa1db4f8ee477cd60f2dbb
+      internalID: 1200330801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_86
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e49c3ab96e7254bbdc728d0645b5a6
+      internalID: 1072821589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_87
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7542a9ba3dc16314f83cb9b750a4a89d
+      internalID: -154252306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_88
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169d71f17f2ac9347893e5a915fd95e0
+      internalID: 205634176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_89
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cf42b983f8a1e4fad9178df8f6d253
+      internalID: 27314237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_90
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7e6fc82ef5b06419b317d72d1cc83e
+      internalID: 1688839447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_91
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a6f519f45de874e85b90d7dcf5ebea
+      internalID: 2031331982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_92
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6720f086853a73c46a42b344b3c9650e
+      internalID: -708436461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_93
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a644735e22ec344af65322c7933361
+      internalID: -329227363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_94
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2ff3717a34a6640914d6335087ad48
+      internalID: -1449811958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_95
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d148cf1982a7de748a3391fd87745ca6
+      internalID: 513228489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_96
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f038039f3d31ada4aa020c1be7fe1245
+      internalID: 193627340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_97
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bac50f8282c2c4c93ee5f3bad961ce
+      internalID: 1736866808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_98
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cb84419c5c5b04d886d221a10322b8
+      internalID: 532896651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen-hood_99
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a2886888d62f04cadc9ba24a2fb6cb
+      internalID: 1623210957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      kitchen-hood_0: 374652217
+      kitchen-hood_1: -1528162639
+      kitchen-hood_10: -338387193
+      kitchen-hood_11: 670494499
+      kitchen-hood_12: 1331202066
+      kitchen-hood_13: -754701813
+      kitchen-hood_14: -1121692609
+      kitchen-hood_15: -1364919925
+      kitchen-hood_16: 998361608
+      kitchen-hood_17: 1848344603
+      kitchen-hood_18: -535449259
+      kitchen-hood_19: -858385924
+      kitchen-hood_2: 1918185559
+      kitchen-hood_20: 341884563
+      kitchen-hood_21: -923767662
+      kitchen-hood_22: -1968772217
+      kitchen-hood_23: 1494284081
+      kitchen-hood_24: -302959465
+      kitchen-hood_25: 1529073487
+      kitchen-hood_26: -1093999472
+      kitchen-hood_27: -726954243
+      kitchen-hood_28: -1300847044
+      kitchen-hood_29: 2021189498
+      kitchen-hood_3: 597272910
+      kitchen-hood_30: 439601653
+      kitchen-hood_31: -2133893816
+      kitchen-hood_32: -858175643
+      kitchen-hood_33: 852946466
+      kitchen-hood_34: 716392134
+      kitchen-hood_35: -775458062
+      kitchen-hood_36: 557174378
+      kitchen-hood_37: -1609971306
+      kitchen-hood_38: -167131786
+      kitchen-hood_39: -988098457
+      kitchen-hood_4: 1837529386
+      kitchen-hood_40: 101737771
+      kitchen-hood_41: -1945482306
+      kitchen-hood_42: 650635500
+      kitchen-hood_43: -1965035441
+      kitchen-hood_44: 1377488624
+      kitchen-hood_45: 569356678
+      kitchen-hood_46: -873668129
+      kitchen-hood_47: -659237803
+      kitchen-hood_48: 1752507036
+      kitchen-hood_49: 1494179355
+      kitchen-hood_5: -215520944
+      kitchen-hood_50: 1686177779
+      kitchen-hood_51: -395414060
+      kitchen-hood_52: -567669871
+      kitchen-hood_53: -794822349
+      kitchen-hood_54: -43700986
+      kitchen-hood_55: 1240532122
+      kitchen-hood_56: 956533220
+      kitchen-hood_57: -555618735
+      kitchen-hood_58: 1742063138
+      kitchen-hood_59: -1248348050
+      kitchen-hood_6: 665213650
+      kitchen-hood_60: -527838483
+      kitchen-hood_61: 1657960054
+      kitchen-hood_62: -2088138258
+      kitchen-hood_63: 830951765
+      kitchen-hood_64: -804335643
+      kitchen-hood_65: 718522763
+      kitchen-hood_66: -1887960797
+      kitchen-hood_67: 2066372520
+      kitchen-hood_68: -753702899
+      kitchen-hood_69: 1730152001
+      kitchen-hood_7: -1119166324
+      kitchen-hood_70: 948888077
+      kitchen-hood_71: 905793529
+      kitchen-hood_72: 1520430374
+      kitchen-hood_73: 1986103195
+      kitchen-hood_74: 1522272912
+      kitchen-hood_75: 787023734
+      kitchen-hood_76: 1712855058
+      kitchen-hood_77: 1016090283
+      kitchen-hood_78: -516308560
+      kitchen-hood_79: -2147105719
+      kitchen-hood_8: -980726132
+      kitchen-hood_80: -592685752
+      kitchen-hood_81: 915318291
+      kitchen-hood_82: 1075030166
+      kitchen-hood_83: 1498281654
+      kitchen-hood_84: 254688929
+      kitchen-hood_85: 1200330801
+      kitchen-hood_86: 1072821589
+      kitchen-hood_87: -154252306
+      kitchen-hood_88: 205634176
+      kitchen-hood_89: 27314237
+      kitchen-hood_9: -189805160
+      kitchen-hood_90: 1688839447
+      kitchen-hood_91: 2031331982
+      kitchen-hood_92: -708436461
+      kitchen-hood_93: -329227363
+      kitchen-hood_94: -1449811958
+      kitchen-hood_95: 513228489
+      kitchen-hood_96: 193627340
+      kitchen-hood_97: 1736866808
+      kitchen-hood_98: 532896651
+      kitchen-hood_99: 1623210957
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

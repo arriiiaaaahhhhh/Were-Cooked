@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+<<<<<<<< Updated upstream:Assets/Sprites/Tiles/Main-menu-tile/Items/WoodWall.asset.meta
+guid: b621e73f95bdce34c972d9bf04b4e607
+========
+<<<<<<< HEAD
+guid: 1889891e5b51bc54d8b5d675b1d79d0a
+>>>>>>>> Stashed changes:Assets/Sprites/Tiles/NewKitchen/Floor layout_1.asset.meta
+=======
+guid: 12a30db9300114d46b296565e76d475e
+>>>>>>>> Stashed changes:Assets/Sprites/Tiles/NewKitchen/Floor layout_0.asset.meta
+>>>>>>> origin/main
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
